@@ -2,13 +2,11 @@
 
 This package provides seamless integration of Meteor accounts system with Steam's OpenID provider.
 
-Tested with **Meteor 1.4.1.2** so far.
-
-Check out [meteor-accounts-steam-example](https://github.com/scholtzm/meteor-accounts-steam-example) for a basic example.
+Tested with **Meteor 2.5.1.** so far.
 
 ## Installation
 
-`meteor add scholtzm:accounts-steam`
+`meteor add 1life1chance:accounts-steam`
 
 ## Usage
 
